@@ -1,4 +1,6 @@
-# Automated Regulatory Compliance & Audit​ Hack 
+# Automated Regulatory Compliance & Audit​ Hack
+
+> **Note:** This branch features a **Tron-themed dashboard** for the fraud alert management interface.
 
 Welcome to the Automated Compliance Agents Hackathon! 🏦 Today, you'll dive into the world of intelligent agent systems powered by Azure AI to revolutionize regulatory compliance in financial services. Get ready for a hands-on, high-impact day of learning and innovation!
 
