@@ -1,0 +1,802 @@
+[
+  {
+    "customer_id": "CUST2001",
+    "name": "Mohammed Johnson",
+    "country": "KR",
+    "account_age_days": 646,
+    "device_trust_score": 0.79,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2002",
+    "name": "Mary Wang",
+    "country": "CA",
+    "account_age_days": 78,
+    "device_trust_score": 0.93,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2003",
+    "name": "Vikram Williams",
+    "country": "AU",
+    "account_age_days": 540,
+    "device_trust_score": 0.7,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2004",
+    "name": "Ana Thomas",
+    "country": "IT",
+    "account_age_days": 477,
+    "device_trust_score": 0.71,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2005",
+    "name": "Lee Williams",
+    "country": "CN",
+    "account_age_days": 512,
+    "device_trust_score": 0.82,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2006",
+    "name": "Priya Davis",
+    "country": "SE",
+    "account_age_days": 58,
+    "device_trust_score": 0.76,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2007",
+    "name": "Robert Mueller",
+    "country": "US",
+    "account_age_days": 1340,
+    "device_trust_score": 0.72,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2008",
+    "name": "Anita Jones",
+    "country": "US",
+    "account_age_days": 1860,
+    "device_trust_score": 0.98,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2009",
+    "name": "William Thomas",
+    "country": "ES",
+    "account_age_days": 1960,
+    "device_trust_score": 0.93,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2010",
+    "name": "Karen Wang",
+    "country": "AE",
+    "account_age_days": 1113,
+    "device_trust_score": 0.79,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2011",
+    "name": "Pedro Khan",
+    "country": "DE",
+    "account_age_days": 1691,
+    "device_trust_score": 0.88,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2012",
+    "name": "Sakura Tanaka",
+    "country": "CH",
+    "account_age_days": 1814,
+    "device_trust_score": 0.9,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2013",
+    "name": "Hans Suzuki",
+    "country": "MX",
+    "account_age_days": 818,
+    "device_trust_score": 0.9,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2014",
+    "name": "Mary Taylor",
+    "country": "JP",
+    "account_age_days": 1227,
+    "device_trust_score": 0.7,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2015",
+    "name": "Luigi Patel",
+    "country": "US",
+    "account_age_days": 708,
+    "device_trust_score": 0.79,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2016",
+    "name": "Charles Martinez",
+    "country": "KR",
+    "account_age_days": 912,
+    "device_trust_score": 0.93,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2017",
+    "name": "Aisha Williams",
+    "country": "JP",
+    "account_age_days": 18,
+    "device_trust_score": 0.12,
+    "past_fraud": true
+  },
+  {
+    "customer_id": "CUST2018",
+    "name": "Karen Thomas",
+    "country": "AE",
+    "account_age_days": 1636,
+    "device_trust_score": 0.97,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2019",
+    "name": "Linda Kim",
+    "country": "SG",
+    "account_age_days": 1718,
+    "device_trust_score": 0.84,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2020",
+    "name": "Barbara Brown",
+    "country": "UK",
+    "account_age_days": 1434,
+    "device_trust_score": 0.85,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2021",
+    "name": "Mei Petrov",
+    "country": "IT",
+    "account_age_days": 1737,
+    "device_trust_score": 0.81,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2022",
+    "name": "Patricia Wang",
+    "country": "ES",
+    "account_age_days": 454,
+    "device_trust_score": 0.76,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2023",
+    "name": "Mary Rodriguez",
+    "country": "IN",
+    "account_age_days": 1167,
+    "device_trust_score": 0.71,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2024",
+    "name": "John Tanaka",
+    "country": "AE",
+    "account_age_days": 480,
+    "device_trust_score": 0.87,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2025",
+    "name": "Karen Ivanov",
+    "country": "IT",
+    "account_age_days": 1158,
+    "device_trust_score": 0.9,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2026",
+    "name": "Elizabeth Li",
+    "country": "ES",
+    "account_age_days": 725,
+    "device_trust_score": 0.76,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2027",
+    "name": "Joseph Davis",
+    "country": "CA",
+    "account_age_days": 1109,
+    "device_trust_score": 0.79,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2028",
+    "name": "Park Rossi",
+    "country": "SG",
+    "account_age_days": 1174,
+    "device_trust_score": 0.97,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2029",
+    "name": "Yuki Ivanov",
+    "country": "IN",
+    "account_age_days": 1168,
+    "device_trust_score": 0.76,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2030",
+    "name": "Sanjay Smith",
+    "country": "IN",
+    "account_age_days": 1001,
+    "device_trust_score": 0.72,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2031",
+    "name": "Ana Singh",
+    "country": "KR",
+    "account_age_days": 58,
+    "device_trust_score": 0.82,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2032",
+    "name": "Maria Al-Hassan",
+    "country": "SE",
+    "account_age_days": 921,
+    "device_trust_score": 0.84,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2033",
+    "name": "Barbara Jones",
+    "country": "MX",
+    "account_age_days": 1984,
+    "device_trust_score": 0.76,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2034",
+    "name": "Robert Jones",
+    "country": "IT",
+    "account_age_days": 1243,
+    "device_trust_score": 0.8,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2035",
+    "name": "Aisha Khan",
+    "country": "ES",
+    "account_age_days": 1716,
+    "device_trust_score": 0.86,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2036",
+    "name": "James Tanaka",
+    "country": "NL",
+    "account_age_days": 944,
+    "device_trust_score": 0.86,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2037",
+    "name": "Jessica Garcia",
+    "country": "US",
+    "account_age_days": 878,
+    "device_trust_score": 0.73,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2038",
+    "name": "Susan Rossi",
+    "country": "CH",
+    "account_age_days": 1189,
+    "device_trust_score": 0.88,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2039",
+    "name": "James Hernandez",
+    "country": "SE",
+    "account_age_days": 970,
+    "device_trust_score": 0.92,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2040",
+    "name": "Patricia Kumar",
+    "country": "AE",
+    "account_age_days": 6,
+    "device_trust_score": 0.87,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2041",
+    "name": "Vikram Patel",
+    "country": "SE",
+    "account_age_days": 260,
+    "device_trust_score": 0.85,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2042",
+    "name": "Lee Ferrari",
+    "country": "FR",
+    "account_age_days": 600,
+    "device_trust_score": 0.9,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2043",
+    "name": "Sanjay Lopez",
+    "country": "CN",
+    "account_age_days": 1326,
+    "device_trust_score": 0.89,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2044",
+    "name": "Lee Anderson",
+    "country": "UK",
+    "account_age_days": 449,
+    "device_trust_score": 0.71,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2045",
+    "name": "Priya Garcia",
+    "country": "KR",
+    "account_age_days": 1887,
+    "device_trust_score": 0.85,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2046",
+    "name": "Charles Rossi",
+    "country": "FR",
+    "account_age_days": 1922,
+    "device_trust_score": 0.84,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2047",
+    "name": "Michael Rossi",
+    "country": "CH",
+    "account_age_days": 571,
+    "device_trust_score": 0.81,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2048",
+    "name": "Anita Wang",
+    "country": "RU",
+    "account_age_days": 11,
+    "device_trust_score": 0.44,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2049",
+    "name": "Ana Santos",
+    "country": "NO",
+    "account_age_days": 1433,
+    "device_trust_score": 0.91,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2050",
+    "name": "William Al-Hassan",
+    "country": "CH",
+    "account_age_days": 1189,
+    "device_trust_score": 0.8,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2051",
+    "name": "Greta Petrov",
+    "country": "IN",
+    "account_age_days": 1769,
+    "device_trust_score": 0.96,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2052",
+    "name": "Charles Miller",
+    "country": "SG",
+    "account_age_days": 858,
+    "device_trust_score": 0.81,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2053",
+    "name": "Ivan Brown",
+    "country": "NL",
+    "account_age_days": 532,
+    "device_trust_score": 0.87,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2054",
+    "name": "Yuki Schmidt",
+    "country": "KR",
+    "account_age_days": 1711,
+    "device_trust_score": 0.95,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2055",
+    "name": "Sarah Martinez",
+    "country": "NL",
+    "account_age_days": 1675,
+    "device_trust_score": 0.81,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2056",
+    "name": "Robert Li",
+    "country": "CN",
+    "account_age_days": 458,
+    "device_trust_score": 0.95,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2057",
+    "name": "Deepa Kim",
+    "country": "KR",
+    "account_age_days": 417,
+    "device_trust_score": 0.97,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2058",
+    "name": "Carlos Hernandez",
+    "country": "CN",
+    "account_age_days": 1208,
+    "device_trust_score": 0.8,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2059",
+    "name": "John Garcia",
+    "country": "UK",
+    "account_age_days": 1340,
+    "device_trust_score": 0.8,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2060",
+    "name": "Robert Thomas",
+    "country": "CH",
+    "account_age_days": 1072,
+    "device_trust_score": 0.82,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2061",
+    "name": "David Miller",
+    "country": "NO",
+    "account_age_days": 1999,
+    "device_trust_score": 0.94,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2062",
+    "name": "Ana Singh",
+    "country": "ES",
+    "account_age_days": 1212,
+    "device_trust_score": 0.94,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2063",
+    "name": "Linda Miller",
+    "country": "IN",
+    "account_age_days": 57,
+    "device_trust_score": 0.33,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2064",
+    "name": "Priya Hernandez",
+    "country": "AU",
+    "account_age_days": 857,
+    "device_trust_score": 0.71,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2065",
+    "name": "Raj Lopez",
+    "country": "NO",
+    "account_age_days": 16,
+    "device_trust_score": 0.87,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2066",
+    "name": "Carlos Martin",
+    "country": "CH",
+    "account_age_days": 854,
+    "device_trust_score": 0.98,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2067",
+    "name": "Kim Gonzalez",
+    "country": "KR",
+    "account_age_days": 1534,
+    "device_trust_score": 0.96,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2068",
+    "name": "Yuki Kumar",
+    "country": "NL",
+    "account_age_days": 1015,
+    "device_trust_score": 0.94,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2069",
+    "name": "Mei Miller",
+    "country": "CN",
+    "account_age_days": 1073,
+    "device_trust_score": 0.76,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2070",
+    "name": "Carlos Yamamoto",
+    "country": "NO",
+    "account_age_days": 1239,
+    "device_trust_score": 0.97,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2071",
+    "name": "Ahmed Silva",
+    "country": "IT",
+    "account_age_days": 1656,
+    "device_trust_score": 0.82,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2072",
+    "name": "Elizabeth Gonzalez",
+    "country": "US",
+    "account_age_days": 156,
+    "device_trust_score": 0.94,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2073",
+    "name": "Ahmed Martin",
+    "country": "JP",
+    "account_age_days": 1697,
+    "device_trust_score": 0.9,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2074",
+    "name": "Sanjay Kim",
+    "country": "MX",
+    "account_age_days": 1587,
+    "device_trust_score": 0.86,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2075",
+    "name": "Mohammed Santos",
+    "country": "IN",
+    "account_age_days": 202,
+    "device_trust_score": 0.93,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2076",
+    "name": "Charles Taylor",
+    "country": "IN",
+    "account_age_days": 11,
+    "device_trust_score": 0.35,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2077",
+    "name": "Sakura Patel",
+    "country": "BR",
+    "account_age_days": 1987,
+    "device_trust_score": 0.77,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2078",
+    "name": "Jennifer Petrov",
+    "country": "UK",
+    "account_age_days": 171,
+    "device_trust_score": 0.87,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2079",
+    "name": "Park Santos",
+    "country": "KR",
+    "account_age_days": 545,
+    "device_trust_score": 0.72,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2080",
+    "name": "Hans Li",
+    "country": "MX",
+    "account_age_days": 487,
+    "device_trust_score": 0.81,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2081",
+    "name": "Sakura Williams",
+    "country": "SG",
+    "account_age_days": 1291,
+    "device_trust_score": 0.92,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2082",
+    "name": "Karen Johnson",
+    "country": "SG",
+    "account_age_days": 1510,
+    "device_trust_score": 0.95,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2083",
+    "name": "Robert Jones",
+    "country": "CN",
+    "account_age_days": 1673,
+    "device_trust_score": 0.96,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2084",
+    "name": "Thomas Anderson",
+    "country": "UK",
+    "account_age_days": 1899,
+    "device_trust_score": 0.92,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2085",
+    "name": "Mary Yamamoto",
+    "country": "US",
+    "account_age_days": 597,
+    "device_trust_score": 0.72,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2086",
+    "name": "Luigi Santos",
+    "country": "IN",
+    "account_age_days": 530,
+    "device_trust_score": 0.98,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2087",
+    "name": "William Silva",
+    "country": "KR",
+    "account_age_days": 1265,
+    "device_trust_score": 0.9,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2088",
+    "name": "Kim Ferrari",
+    "country": "KP",
+    "account_age_days": 28,
+    "device_trust_score": 0.23,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2089",
+    "name": "Fatima Ferrari",
+    "country": "CH",
+    "account_age_days": 1620,
+    "device_trust_score": 0.77,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2090",
+    "name": "Jessica Williams",
+    "country": "US",
+    "account_age_days": 1229,
+    "device_trust_score": 0.71,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2091",
+    "name": "Karen Anderson",
+    "country": "DE",
+    "account_age_days": 1039,
+    "device_trust_score": 0.9,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2092",
+    "name": "Park Wilson",
+    "country": "IT",
+    "account_age_days": 64,
+    "device_trust_score": 0.78,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2093",
+    "name": "Karen Rossi",
+    "country": "CA",
+    "account_age_days": 1636,
+    "device_trust_score": 0.81,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2094",
+    "name": "John Rodriguez",
+    "country": "BR",
+    "account_age_days": 1992,
+    "device_trust_score": 0.96,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2095",
+    "name": "Ana Tanaka",
+    "country": "FR",
+    "account_age_days": 1264,
+    "device_trust_score": 0.88,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2096",
+    "name": "Michael Park",
+    "country": "NL",
+    "account_age_days": 118,
+    "device_trust_score": 0.83,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2097",
+    "name": "Jessica Anderson",
+    "country": "KR",
+    "account_age_days": 71,
+    "device_trust_score": 0.93,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2098",
+    "name": "Elizabeth Schmidt",
+    "country": "SE",
+    "account_age_days": 1871,
+    "device_trust_score": 0.88,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2099",
+    "name": "James Rossi",
+    "country": "JP",
+    "account_age_days": 592,
+    "device_trust_score": 0.74,
+    "past_fraud": false
+  },
+  {
+    "customer_id": "CUST2100",
+    "name": "Chen Al-Hassan",
+    "country": "ES",
+    "account_age_days": 304,
+    "device_trust_score": 0.92,
+    "past_fraud": false
+  }
+]
